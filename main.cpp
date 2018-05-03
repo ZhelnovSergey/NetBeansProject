@@ -20,6 +20,7 @@ using namespace std;
 int main(int argc, char** argv) 
 {
     printf("Hello World!\n");
+    printf("My name is Sergey!\n");
     return 0;
 }
 
